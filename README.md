@@ -30,8 +30,6 @@ visualizations/: Key charts exported from the analysis (Regression plots, Histog
 
 reports/: The final summary document detailing policy recommendations.
 
-📈 Featured Visualizations
-Figure 1: Strong negative correlation between household low-income rates and Grade 6 reading scores in Ontario.
 
 🚀 How to Reproduce
 1. Clone the repo: git clone https://github.com/yourusername/ontario-education-equity.git
